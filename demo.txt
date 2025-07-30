@@ -2,3 +2,4 @@ hello my name is mohit yadav
 hello first commit
 
 one more line from second branch
+newline for revert 
